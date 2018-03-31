@@ -7,7 +7,7 @@ Installation:
 		- Install Flask by running 'pip install flask' from command prompt.
 		- Install  MySQL server.
 		- Install MySQL connector for python using 'pip install mysql-connector==2.1.4'
-	-----------------------------------------------------------------------------
+		
 	Initial Data Load:
 		- Navigate to dist folder.
 		- Locate the lms.sql script under 'sql' folder and run in MySQL as 'root' user.
@@ -22,7 +22,7 @@ Installation:
 			cnx = mysql.connector.connect(user='', password='',database='lms',charset='utf8')
 			- Enter your root username and password. Save the file.
 		- Run migrateBorrowersCsvToMysql.py using python
-	------------------------------------------------------------------------------
+		
 	Start Server:
 		- Navigate to "dist/server/".
 		- Edit server.py. Locate the following line:
