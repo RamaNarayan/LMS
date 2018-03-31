@@ -1,0 +1,68 @@
+.reactApp{
+  font-family: sans-serif;
+  color:#666666;
+}
+
+.pageHeader{
+  font-size: 16px;
+  color: white;
+  margin-left: 40%
+}
+
+.titleBlock{
+  background-color:#4267b2;
+  padding-top: 5px;
+  padding-bottom: 1px;
+}
+
+.navigation {
+    overflow: hidden;
+    border-bottom: 0.5px solid #cccccc;
+}
+
+
+.navigation a {
+  float: left;
+  display: block;
+  color: #666666;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  border-bottom: 3px solid transparent;
+}
+
+.navigation a:hover {
+  border-bottom: 3px solid #4267b2;
+  text-decoration: none;
+}
+
+.navigation a.active {
+  border-bottom: 3px solid #4267b2;
+}
+
+.itemClicked {
+  border-bottom: 3px solid #4267b2 !important;
+  color:#4267b2 !important;
+}
+
+.defaultTable{
+  font-size: 13px;
+}
+
+td {
+  padding: 0.4rem !important;
+  text-align: left;
+}
+
+th {
+  background-color: #4267b2;
+  color: white;
+}
+
+input[type=checkbox], input[type=radio] {
+  margin-right: 5px;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}

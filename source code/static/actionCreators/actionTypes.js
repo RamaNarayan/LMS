@@ -1,0 +1,4 @@
+export const SET_PAGE = 'SET_PAGE';
+export const SET_SEARCH_RESULT = 'SET_SEARCH_RESULT';
+export const SET_LOAN_SEARCH_RESULT = 'SET_LOAN_SEARCH_RESULT';
+export const SET_FINE_DATA = 'SET_FINE_DATA';

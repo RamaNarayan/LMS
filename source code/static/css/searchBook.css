@@ -1,0 +1,66 @@
+.bookSearchBox{
+  margin-top: 35%;
+  margin-left: 47%;
+}
+
+.isbnTable{
+  margin-top:2%;
+}
+
+.afterResult{
+  margin-top: 5%;
+}
+
+.indexValue{
+  width:8em;
+}
+
+.checkOutButton{
+  margin-top:5px;
+  margin-right:5px;
+  margin-bottom: 5px;
+}
+
+.alertMessage{
+  margin-top:5px;
+}
+
+.searchBook input.form-control{
+  border-radius: 0;
+}
+
+.input-group-btn button.btn{
+  border-radius: 0;
+}
+
+button.btn.btn-primary{
+  background-color: #4267b2;
+  border-color: #4267b2;
+}
+
+.cardIdText{
+  display:inline-block;
+}
+
+.noResults{
+  margin-top: 1%;
+}
+
+.loadingSearch{
+  margin-top: 3%;
+  margin-left: 45%;
+}
+
+.alertSuccess{
+  color: green;
+  font-size: 14px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.alertDanger{
+  color: red;
+  font-size: 14px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
